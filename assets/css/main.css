@@ -1,0 +1,75 @@
+table{
+    width: 650px;
+    font-family: 'Poppins', sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+tbody{
+    background: url('../img/bg-copia.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+tbody td{
+    width: 50%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.logo-exito{
+    background-color: yellow;
+    padding: 0.5em;
+}
+
+.banner{
+    text-align: left;
+    background: url('../img/foto-etto-navidad.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 340px;
+    padding: 2em;
+}
+
+.mini-banner img{
+    margin: .5em;
+}
+
+.logos-comprar{
+    background-color: yellow;
+    border-radius: 12px;
+    width: 70%;
+}
+
+.btn-comprar{
+    color: #B03030;
+    background-color: #C5A661;
+    text-decoration: none;
+    padding: .8em;
+    font-weight: bold;
+    font-size: .8em;
+    border-radius: 1.5em;
+}
+
+.text-ahorro{
+    font-size: .8em; 
+    background-color: black;
+    border-radius: .7em;
+    padding: .2em .4em;
+    font-size: .8em;
+    font-weight: 600;
+}
+
+.footer-menu-items span{
+    margin: 1.5em;
+}
+
+.footer-menu2-items span{
+    margin: 2em;
+}
